@@ -1,0 +1,12 @@
+{
+  "removed_files": 449,
+  "removed_bytes": 1470618541,
+  "preserved_files_verified": 31,
+  "preserved_blender": [
+    "blender_mcp_ultra.zip",
+    "install_ultra_addon.py",
+    "jam2d_pipeline.py",
+    "mcp-1.0.3.zip",
+    "spider_walker_source.py"
+  ]
+}

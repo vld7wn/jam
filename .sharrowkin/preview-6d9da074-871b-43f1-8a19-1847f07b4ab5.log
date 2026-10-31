@@ -1,0 +1,21 @@
+
+> spider-game@0.0.0 build
+> vite build
+
+[36mvite v8.3.5 [32mbuilding client environment for production...[36m[39m
+transforming...
+✓ 21 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/karakurt-2d.html              0.63 kB │ gzip:   0.41 kB
+dist/index.html                    0.86 kB │ gzip:   0.52 kB
+dist/assets/main-CMoMjApc.css      0.33 kB │ gzip:   0.23 kB
+dist/assets/main-C4_IXSLY.js   1,230.92 kB │ gzip: 332.08 kB
+
+[33m[plugin builtin:vite-reporter] 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rolldownOptions.output.codeSplitting to improve chunking: https://rolldown.rs/reference/OutputOptions.codeSplitting
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.[39m
+[32m✓ built in 1.17s[39m
+http://127.0.0.1:51508/jam/karakurt-2d.html

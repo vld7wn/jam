@@ -1,0 +1,40 @@
+
+> spider-game@0.0.0 dev
+> vite --host 127.0.0.1 --port 0
+
+
+  [32m[1mVITE[22m v8.3.5[39m  [2mready in [0m[1m252[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m56467[22m/[39m
+
+<--- Last few GCs --->
+
+[57176:0000017655176000]     6344 ms: Scavenge 23.8 (33.3) -> 17.3 (33.3) MB, pooled: 0 MB, 1.55 / 0.02 ms  (average mu = 0.990, current mu = 0.990) task; 
+[57176:0000017655176000]     6444 ms: Scavenge 27.0 (38.1) -> 22.3 (39.3) MB, pooled: 0 MB, 2.13 / 0.02 ms  (average mu = 0.990, current mu = 0.990) allocation failure; 
+[57176:0000017655176000]     6445 ms: Scavenge 22.3 (39.3) -> 22.2 (39.3) MB, pooled: 0 MB, 1.22 / 0.00 ms  (average mu = 0.990, current mu = 0.990) allocation failure; 
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+
+ 1: 00007FF7E6BB3D9F 
+ 2: 00007FF7E57FDCB7 
+ 3: 00007FF7E55FE4F7 
+ 4: 00007FF7E5596AEB 
+ 5: 00007FF7E55BF06A 
+ 6: 00007FF7E56008D6 
+ 7: 00007FF7E55FFF26 
+ 8: 00007FF7E5610E82 
+ 9: 00007FF7E56109AB 
+10: 00007FF7E6EE24AD 
+11: 00007FF7E55FBFC0 
+12: 00007FF7E55FC8E6 
+13: 00007FF7E561696E 
+14: 00007FF7E5622678 
+15: 00007FF7E563D9D5 
+16: 00007FF7E563D93C 
+17: 00007FF7E56247C9 
+18: 00007FF7E56249C2 
+19: 00007FF7E57FDAB2 
+20: 00007FF7E69D6BFC 
+21: 00007FF7E69D7177 
+22: 000001761FDCF64D 

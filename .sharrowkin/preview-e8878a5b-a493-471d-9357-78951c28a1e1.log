@@ -1,0 +1,90 @@
+
+> spider-game@0.0.0 dev
+> vite --host 127.0.0.1
+
+
+  [32m[1mVITE[22m v8.3.5[39m  [2mready in [0m[1m299[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m19:48:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/main.js[22m
+[2m19:56:59[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/actors/Spider.js[22m
+[2m19:57:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/systems/LevelGenerator.js[22m
+[2m19:57:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/GameScene.js[22m
+[2m19:57:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/UIScene.js[22m
+[2m19:57:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/ui/createHUD.js[22m
+[2m19:57:02[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/actors/Spider.js[22m
+[2m19:57:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/systems/LevelGenerator.js[22m
+[2m19:57:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/GameScene.js[22m
+[2m19:57:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/actors/Spider.js[22m
+[2m19:57:05[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/systems/LevelGenerator.js[22m
+[2m19:57:05[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/actors/Spider.js[22m
+[2m19:57:27[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/GameScene.js[22m
+[2m19:57:28[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m19:57:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m19:57:34[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/GameScene.js[22m
+[2m19:57:35[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m19:58:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/actors/Spider.js[22m
+[2m19:58:08[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/actors/Spider.js[22m
+[2m19:58:08[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/actors/Spider.js[22m
+[2m19:58:09[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/actors/Spider.js[22m
+[2m20:00:53[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/systems/LevelGenerator.js[22m
+[2m20:00:56[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/systems/LevelGenerator.js[22m
+[2m20:01:45[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/UIScene.js[22m
+[2m20:01:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/UIScene.js[22m
+[2m20:05:22[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/systems/LevelGenerator.js[22m
+[2m20:05:23[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/GameScene.js[22m
+[2m20:05:25[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/systems/LevelGenerator.js[22m
+[2m20:05:26[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/systems/LevelGenerator.js[22m
+[2m20:05:56[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/systems/roomTemplates.js[22m
+[2m20:55:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/art.js[22m
+[2m20:55:15[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/PreloadScene.js[22m
+[2m20:55:27[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/PreloadScene.js[22m
+[2m21:05:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/art.js[22m
+[2m21:06:20[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m21:06:35[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m21:07:20[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/GameScene.js[22m
+[2m21:16:23[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m21:17:06[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m21:23:55[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/art.js[22m
+[2m21:24:08[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/animations.js[22m
+[2m21:28:55[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/animations.js[22m
+[2m21:29:07[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/animations.js[22m
+[2m21:29:23[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/animations.js[22m
+[2m21:29:41[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/animations.js[22m
+[2m21:30:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/animations.js[22m
+[2m21:30:22[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/animations.js[22m
+[2m21:30:48[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m21:31:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m21:31:12[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m21:31:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m21:31:43[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m21:32:07[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/animations.js[22m
+[2m21:33:16[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/animations.js[22m
+[2m21:33:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/animations.js[22m
+[2m21:33:57[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m21:34:13[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m21:37:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m21:37:05[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m21:37:06[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mkarakurt-2d.html[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/actors/Spider.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/audio/AudioDirector.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/BootScene.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/GameScene.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/MenuScene.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/PreloadScene.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/scenes/UIScene.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/jam2d/style.css[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/systems/Human.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/art.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/main.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/Presentation.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/systems/LevelGenerator.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/systems/Progression.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/visual/animations.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/jam2d/ui/createHUD.js[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m00:01:17[22m [36m[1m[vite][22m[39m server restarted.
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m00:01:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mkarakurt-2d.html[22m

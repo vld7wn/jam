@@ -1,0 +1,21 @@
+{
+  "name": "spider-game",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "test": "node --test --test-concurrency=1",
+    "build": "vite build",
+    "build:low-memory": "node scripts/build-low-memory.js",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "vite": "^8.3.5"
+  },
+  "dependencies": {
+    "phaser": "^3.90.0",
+    "phaser3-rex-plugins": "^1.80.16"
+  }
+}
